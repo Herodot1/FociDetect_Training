@@ -1,2 +1,5 @@
 # FociDetect_Training
-Foci detection training module
+Foci Detection Training Module
+
+
+Code for training a model to classify fluorescently labeled foci. For application to images see: https://github.com/Herodot1/FociDetect/
